@@ -1,0 +1,2 @@
+# spark_test
+Apache Sparkで始めるお手軽リアルタイムウインドウ集計の環境を構築するためのDockerfile
